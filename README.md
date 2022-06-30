@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 🌱 1day 1commit !!!
 
 🌱 I’m currently learning programming language!!
+<br>
 <a href="https://velog.io/@ryan1104">My ve.log</a>
 
 <!-- ### Hi there 👋 -->
