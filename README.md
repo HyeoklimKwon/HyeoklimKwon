@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning programming language!!
 <br>
-<a href="https://velog.io/@ryan1104">My ve.log</a>
+<a href="https://velog.io/@ryan1104">My velog</a>
 
 <!-- ### Hi there 👋 -->
 <h1>📚 STACKS</h1>
